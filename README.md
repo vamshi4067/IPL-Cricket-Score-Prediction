@@ -4,6 +4,6 @@
 • This repository consists of files required to deploy a __Machine Learning Web App__ created with __Flask__ on __Heroku__ platform.
 
 • If you want to view the deployed model, click on the following link:<br />
-  Deployed at: https://ipl-cricket-score-predictor.herokuapp.com/ 
+  Deployed at: https://cricketscorepredictorapp.azurewebsites.net 
 
 • Link to the project: https://github.com/vamshi4067/IPL-Cricket-Score-Prediction
